@@ -14,3 +14,4 @@ class Pyrsia < Formula
     system "false"
   end
 end
+

@@ -1,7 +1,9 @@
-# Pyrsia installer on macOS
+# homebrew-pyrsia
 Homebrew formula for the Pyrsia on macOS
 
-
-
-brew tap pyrsia pyrsia
-brew tap https://github.com/pyrsia/homebrew-pyrsia
+Users can install Pyrsia on macOS using the Pyrsia Taps (Third-Party Repositories) by using the following commands
+```
+brew tap pyrsia/pyrsia
+brew install pyrsia
+```
+Now Homebrew can track, update, and install Pyrsia installer for macOS
